@@ -14,7 +14,7 @@ I'm currently focused on:
 
 I'm in my final semester and ready to apply my skills to real-world challenges.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/david-a-meneses-414548374) or reach out via email at [davidmeneses322@gmail.com].
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/davidameneses) or reach out via email at [davidmeneses322@gmail.com].
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -36,8 +36,5 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/david-a-meneses-4
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=DavidMeneses_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMeneses&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMeneses&theme=tokyonight&layout=compact)
 
 
